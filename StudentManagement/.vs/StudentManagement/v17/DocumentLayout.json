@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\models\\yourmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\yourmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|c:\\users\\paras mittal\\source\\repos\\studentmanagement\\studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA82101A-6D76-47BD-B1F0-150AE78A275A}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Data\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Data\\DataAccess.cs",
+              "RelativeToolTip": "StudentManagement\\Data\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:07:47.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YourModel.cs",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Models\\YourModel.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\YourModel.cs",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Models\\YourModel.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\YourModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T14:00:06.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:46:58.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-31T13:40:54.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:37:52.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:36:18.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T13:34:13.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentManagement",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T13:32:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Paras Mittal\\source\\repos\\StudentManagement\\StudentManagement\\appsettings.json",
+              "RelativeToolTip": "StudentManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-31T13:28:41.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
